@@ -1,0 +1,15 @@
+.image {
+  background-image: url("../Components/skills.png");
+  height: 320px;
+  background-position: center;
+  background-size: 440px;
+  background-repeat: no-repeat;
+}
+
+.im {
+  background-image: url("./contact.jpg");
+  height: 320px;
+  background-position: center;
+  background-size: 440px;
+  background-repeat: no-repeat;
+}

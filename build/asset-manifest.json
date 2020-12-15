@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7BPortfolio-React.github.io%7D/static/css/main.46704f20.chunk.css",
+    "main.js": "/%7BPortfolio-React.github.io%7D/static/js/main.eeee2e36.chunk.js",
+    "main.js.map": "/%7BPortfolio-React.github.io%7D/static/js/main.eeee2e36.chunk.js.map",
+    "runtime-main.js": "/%7BPortfolio-React.github.io%7D/static/js/runtime-main.a6042d24.js",
+    "runtime-main.js.map": "/%7BPortfolio-React.github.io%7D/static/js/runtime-main.a6042d24.js.map",
+    "static/js/2.5b0d9b01.chunk.js": "/%7BPortfolio-React.github.io%7D/static/js/2.5b0d9b01.chunk.js",
+    "static/js/2.5b0d9b01.chunk.js.map": "/%7BPortfolio-React.github.io%7D/static/js/2.5b0d9b01.chunk.js.map",
+    "index.html": "/%7BPortfolio-React.github.io%7D/index.html",
+    "static/css/main.46704f20.chunk.css.map": "/%7BPortfolio-React.github.io%7D/static/css/main.46704f20.chunk.css.map",
+    "static/js/2.5b0d9b01.chunk.js.LICENSE.txt": "/%7BPortfolio-React.github.io%7D/static/js/2.5b0d9b01.chunk.js.LICENSE.txt",
+    "static/media/heading.module.css": "/%7BPortfolio-React.github.io%7D/static/media/bg.dc303600.png",
+    "static/media/about.module.css": "/%7BPortfolio-React.github.io%7D/static/media/skills.beb4528c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6042d24.js",
+    "static/js/2.5b0d9b01.chunk.js",
+    "static/css/main.46704f20.chunk.css",
+    "static/js/main.eeee2e36.chunk.js"
+  ]
+}

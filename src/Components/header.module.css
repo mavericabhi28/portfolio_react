@@ -1,0 +1,31 @@
+.container {
+  width: 80%;
+  height: 60px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-bottom: 1px solid rgb(212, 211, 211);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  list-style: none;
+}
+.ul .li .link {
+  color: indianred;
+  text-decoration: none;
+  list-style: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.ul .li :hover {
+  color: rgb(61, 61, 61);
+}
